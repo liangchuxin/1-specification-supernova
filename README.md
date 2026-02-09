@@ -48,7 +48,7 @@ A user managing a fridge shared by multiple people. This includes roommates spli
 
 ## Product Vision Statement
 
-For busy individuals and communal living environments who struggle with food waste and disorganized kitchens, **Better Fridge** is a smart inventory and collaboration app that automates expiration tracking, simplifies meal decisions, and coordinates shared responsibilities.
+For busy individuals and communal living environments who struggle with food waste and disorganized kitchens, ***Better Fridge*** is a smart inventory and collaboration app that automates expiration tracking, simplifies meal decisions, and coordinates shared responsibilities.
 
 ## User Requirements
 
