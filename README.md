@@ -8,7 +8,43 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+We conducted interviews with college students, roommates, and family members to understand the distinct needs of individual users versus those living in shared environments.
+
+### 1. The Individual User
+**Representative:** *The Busy Student / The Vegetarian Professional / The Content Creator*
+A user managing their own diet and budget. They are often tired after work/school and prone to ordering takeout if cooking feels too complicated.
+
+**Goals & Needs**
+* **Inventory-Based Recipes:** Wants the app to suggest recipes based *strictly* on what is currently in stock (e.g., "You have spinach and chicken") to avoid going to the store.
+* **Visual Freshness Indicators:** Needs a "Visual Countdown" (Green/Yellow/Red indicators) to gamify freshness and instantly see what needs to be eaten first.
+* **Dietary Personalization:** Needs to filter recipe suggestions by diet (e.g., Vegetarian) and exclude allergens automatically so they don't have to read every ingredient list.
+* **Offline Access:** Wants to view their fridge inventory and shopping list even without a signal, specifically when deep inside a supermarket.
+* **Consumption History:** Wants to look back at what they cooked last week (like a food diary) to repeat successful meals and track their own nutrition.
+
+**Problems & Frustrations**
+* **Short Shelf Life:** Buys healthy ingredients (e.g., organic products) with good intentions, but lets them spoil because the pan isn't washed or they are too tired to cook.
+* **Fridge Blindness:** Items get pushed to the back of the fridge and are forgotten; they are only discovered when they smell bad.
+* **Decision Fatigue:** The hardest part of cooking isn't the labor, but the mental exhaustion of deciding *what* to cook every single day.
+* **Duplicate Buying:** Often buys items (like spices or jars of sauce) that they already have at home because they didn't check the cabinet before shopping.
+* **Unhealthy Default:** When they don't know what to cook, they default to instant noodles or unhealthy snacks, even if they have fresh food available.
+
+### 2. The Group User
+**Representative:** *The Roommate / The Family Member*
+A user managing a fridge shared by multiple people. This includes roommates splitting costs or parents monitoring their children's nutrition.
+
+**Goals & Needs**
+* **Ownership Labeling:** Needs to clearly label items as **"Mine"** (Private) vs. **"Shared"** (Community) to establish boundaries in a shared space.
+* **Remote Monitoring:** Wants to know if family members are eating properly (e.g., checking if the "balanced meal" ingredients were used) without having to nag them.
+* **Replenishment Alerts:** Wants to know immediately when shared staples (like milk or eggs) run low so the next person coming home can buy more.
+* **Activity Transparency:** Wants a log of who added or removed items to ensure financial fairness and transparency in shared living.
+* **Standardized Rules:** Wants to set category rules (e.g., "Top shelf is for leftovers") so that everyone follows the same organization system.
+
+**Problems & Frustrations**
+* **Accidental Theft:** Roommates often eat leftovers or expensive ingredients because they mistakenly thought they were "community food."
+* **Vague Communication:** Family members give dismissive answers when asked "What did you eat?", making it hard to track nutrition.
+* **Inconsistent Storage:** One person puts raw meat next to cooked vegetables, or puts dairy in the door (where it spoils), causing safety concerns.
+* **Spoilage Blame:** When something rots in a shared fridge, no one takes responsibility to throw it out, so it stays there for weeks.
+* **Double Purchasing:** Multiple people buy the same perishable item (e.g., three cartons of milk) because they didn't communicate, leading to waste.
 
 ## Product Vision Statement
 
